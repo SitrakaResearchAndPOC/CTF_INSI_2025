@@ -1,4 +1,7 @@
 # FLAG ADVENTURE
+## 💻 Comment Participer ?
+La Chasse au Trésor a déjà commencé ! Il vous suffit de télécharger les assets dans les releases et de suivre les instructions pour chaque étape. 
+
 ## 🗝️ La Chasse au Trésor
 La <b>  Chasse au Trésor </b> est une expérience de jeu amusante et interactive qui vous guidera à travers diverses étapes pour découvrir le trésor ultime. Chaque étape vous présentera un nouveau défi à relever et des indices pour vous aider à résoudre le puzzle.
 
