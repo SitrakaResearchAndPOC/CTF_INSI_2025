@@ -11,7 +11,7 @@
 * CommandInjectionEvading [flag_web4](https://github.com/SitrakaResearchAndPOC/CTF_INSI_2025/blob/main/flag_web4.md)
 
 # AdventureLab
-[flag_adventure]()
+[flag_adventure](https://github.com/SitrakaResearchAndPOC/CTF_INSI_2025/blob/main/flag_adventure.md)
 
 # Crypto_analysis
 [CryptoAnalysis]()
