@@ -13,11 +13,6 @@
 # AdventureLab
 [flag_adventure]()
 
-
-## 💻 Comment Participer ?
-La Chasse au Trésor a déjà commencé ! Il vous suffit de télécharger les assets dans les releases et de suivre les instructions pour chaque étape. 
-
-
 # Crypto
 
 ## CVE-Analysis
