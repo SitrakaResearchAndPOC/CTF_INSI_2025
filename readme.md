@@ -13,6 +13,8 @@
 # AdventureLab
 [flag_adventure]()
 
-# Crypto
-
-## CVE-Analysis
+# Crypto_analysis
+[CryptoAnalysis]()
+[CryptoAnalysis2]()
+## CVE_Analysis
+[CveAnalysis]()
