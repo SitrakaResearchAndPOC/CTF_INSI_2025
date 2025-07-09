@@ -1,5 +1,5 @@
 # FLAG2
-Vous venez de pirater un ordinateur de l'entreprise insi ayant un document caché dans le système. Ce document contient le flag </br> </br>
+Vous venez de pirater un ordinateur de l'entreprise insi ayant un document caché dans l'OS. Ce document contient le flag </br> </br>
 
 Manipulation à faire pour preparer les images : 
 ```
