@@ -14,7 +14,7 @@
 [flag_adventure](https://github.com/SitrakaResearchAndPOC/CTF_INSI_2025/blob/main/flag_adventure.md)
 
 # Crypto_analysis
-[CryptoAnalysis]()
-[CryptoAnalysis2]()
+* [CryptoAnalysis]()
+* [CryptoAnalysis2]()
 ## CVE_Analysis
-[CveAnalysis]()
+* [CveAnalysis]()
