@@ -8,11 +8,11 @@ Manipulation à faire pour preparer les images :
 docker load -i image_flag_web_v1.tar.gz
 ```
 ```
-docker run -itd -p 80:80 --name conteneur_flag_web1 --hostname conteneur_flag_web1 image_flag_web:v1
+docker run -itd -p 8081:80 --name conteneur_flag_web1 --hostname conteneur_flag_web1 image_flag_web:v1
 ```
 Tapez sur le navigateur
 ```
-localhost
+localhost:8081
 ```
 Rechercher le mot de passe puis le flag
 
