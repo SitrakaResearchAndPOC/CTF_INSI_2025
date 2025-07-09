@@ -14,6 +14,6 @@ Tapez sur le navigateur
 ```
 localhost
 ```
-Rechercher le flag
+Rechercher le mot de passe puis le flag
 
 
