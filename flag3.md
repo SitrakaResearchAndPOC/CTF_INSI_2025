@@ -1,5 +1,5 @@
 # FLAG3
-L'entreprise INSI possède un document important insi.jpg, l'adminstrateur a cacher des informations dans les metadonnées et dans l'image insi.jpg </br> </br>
+L'entreprise INSI possède un document important insi.jpg, l'adminstrateur a caché des informations dans les metadonnées et dans l'image insi.jpg </br> </br>
 
 Manipulation à faire pour preparer les images : 
 ```
