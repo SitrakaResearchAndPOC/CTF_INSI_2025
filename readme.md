@@ -1,4 +1,4 @@
-# CTF QCM INSI 2025
+# CTF DATADAY INSI 2025
 ## Forensic
 * CommandLineForensic [flag1](https://github.com/SitrakaResearchAndPOC/CTF_INSI_2025/blob/main/flag1.md)
 * FileNameForensic [flag2](https://github.com/SitrakaResearchAndPOC/CTF_INSI_2025/blob/main/flag2.md)
