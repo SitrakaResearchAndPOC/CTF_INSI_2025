@@ -17,7 +17,7 @@ Entrer :
 ```
 google.com
 ```
-Résultat du ping est donc
+Résultat du ping est donc (attendre environ 5 à 10 séconde)
 ```
 PING google.com (74.125.136.139) 56(84) bytes of data.
 64 bytes from 74.125.136.139 (74.125.136.139): icmp_seq=1 ttl=63 time=280 ms
