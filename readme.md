@@ -15,6 +15,6 @@
 
 # Crypto_analysis
 * [CryptoAnalysis]()
-* [CryptoAnalysis2]()
+* [CryptoAnalysis2](https://github.com/SitrakaResearchAndPOC/CTF_INSI_2025/blob/main/analysis_crypto2.md)
 ## CVE_Analysis
 * [CveAnalysis]()
