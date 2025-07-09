@@ -1,4 +1,4 @@
-# FLAG_WEB3
+# FLAG_WEB4
 Lors du déploiement dans un serveur, un pirate constate que la fenêtre tester connectivité possède une faille </br>
 Le but est de récuperer un fichier important dans le serveur du nom de flag.txt  </br>  
 Dans cet exercice, un mini-parfeu a été installé </br>
