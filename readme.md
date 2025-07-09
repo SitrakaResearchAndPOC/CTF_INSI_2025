@@ -9,10 +9,9 @@
 * BruteForcingPost [flag_web2](https://github.com/SitrakaResearchAndPOC/CTF_INSI_2025/blob/main/flag_web2.md)
 * CommandInjection [flag_web3](https://github.com/SitrakaResearchAndPOC/CTF_INSI_2025/blob/main/flag_web3.md)
 * CommandInjectionEvading [flag_web4](https://github.com/SitrakaResearchAndPOC/CTF_INSI_2025/blob/main/flag_web4.md)
-* SQLInjection [flag_web5](https://github.com/SitrakaResearchAndPOC/CTF_INSI_2025/blob/main/flag_web5.md)
-* SQLInjectionEvading [flag_web6](https://github.com/SitrakaResearchAndPOC/CTF_INSI_2025/blob/main/flag_web6.md)
+
+## AdventureLab
 
 ## Crypto
 
-
-## Pentest & system & software
+## CVE-Analysis
